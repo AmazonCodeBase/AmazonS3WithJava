@@ -2,9 +2,9 @@ package com.aws.s3.constants;
 
 public class CommonConstants {
 	
-	public static String ACCESS_KEY_ID = "AKIAIEB2S3FEI5T5BWCQ";
+	public static String ACCESS_KEY_ID = "ACCESS_KEY_ID";
 	
-	public static String ACCESS_SEC_KEY = "PFD9D7WMjQZ8/iDYSidThANY9Rx0gnhSXq464/zq";
+	public static String ACCESS_SEC_KEY = "ACCESS_SEC_KEY";
 	
 	public static String BUCKET_NAME = "amazoncodedeploybucket";
 	
